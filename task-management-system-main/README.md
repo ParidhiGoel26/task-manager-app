@@ -475,7 +475,3 @@ GitHub:
 https://github.com/ParidhiGoel26
 
 ---
-
-# License
-
-This project is licensed under the MIT License.
